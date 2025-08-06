@@ -1,5 +1,6 @@
 {% assign author = site.data.authors[include.author] %}
 {% assign date = include.date | default: "today" | date: "%-d. %B %Y" %}
+{% assign rrule = include.rrule %}
 
 <div class="post-info">
   {%- if author.url -%}<a href="{{ author.url | relative_url }}" target="_blank" rel="noopener">{%- endif -%}
@@ -9,7 +10,11 @@
     <p class="meta">
       {% if author.name %}{{ author.name }} - {% endif %}
       {% assign x = date | date: "%m" | minus: 1 %}
+      {% if rrule %}
+      {% include blog/rrule.liquid rrule=rrule %}
+      {% else %}
       {{ date | date: "%-d. " }}{{ site.data.language.str_months[x]}} {{ date | date: "%Y" }}
+      {% endif %}
     </p>
   {%- if author.url -%}</a>{%- endif -%}
 </div>
