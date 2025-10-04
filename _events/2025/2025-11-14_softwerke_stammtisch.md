@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Softwerke-Stammtisch"
+title: "Canceled: Softwerke-Stammtisch"
 author: "Netz39 e.V."
 tags: ["non-recurring"]
 event:
