@@ -2,7 +2,7 @@
 layout: event
 title: "Softwerke-Stammtisch"
 author: "Netz39 e.V."
-discord_event_id: 1423991989384511590
+discord_event_id: 1423993419826724894
 tags: ["non-recurring"]
 event:
   start: 2025-11-14 19:30:00 
