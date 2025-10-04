@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Netz39-Stammtisch"
+title: "Canceled: Netz39-Stammtisch"
 author: "Netz39 e.V."
 discord_event_id: 1424004914949914727
 tags: ["non-recurring"]
