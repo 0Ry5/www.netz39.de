@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Softwerke-Stammtisch"
+title: "Canceled: Softwerke-Stammtisch"
 author: "Netz39 e.V."
 discord_event_id: 1424004818082725978
 tags: ["non-recurring"]
