@@ -1,7 +1,8 @@
 ---
 layout: event
 title: "FaRaFIN Campusrallye"
-author: "Netz39 e.V." 
+author: "Netz39 e.V."
+discord_event_id: 1424004435704549376
 tags: ["non-recurring"]
 event:
   start: 2025-10-06 14:00:00 
@@ -10,4 +11,5 @@ event:
   location: "OVGU Campus"
 ---
 Wir haben einen Stand auf der FaRaFIN Campusrallye angeboten bekommen. Gestaltung noch offen.
+<!-- event imported from discord manual changes may be overwritten -->
 <!-- event imported from discord manual changes may be overwritten -->
