@@ -2,7 +2,7 @@
 layout: event
 title: "FaRaFIN Campusrallye"
 author: "Netz39 e.V."
-discord_event_id: 1424004435704549376
+discord_event_id: 1424007098433409167
 tags: ["non-recurring"]
 event:
   start: 2025-10-06 14:00:00 
