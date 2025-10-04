@@ -2,7 +2,7 @@
 layout: event
 title: "39C3 - Chaos Communication Congress"
 author: "Netz39 e.V."
-discord_event_id: 1424004941365776528
+discord_event_id: 1424008315540607118
 tags: ["non-recurring"]
 event:
   start: 2025-12-27 00:00:00 
