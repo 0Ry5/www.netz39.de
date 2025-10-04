@@ -1,0 +1,25 @@
+---
+layout: event
+title: "🎉  Netz39 wird 13 – und das feiern wir!  🥳"
+author: "Netz39 e.V."
+tags: ["recurring"]
+event:
+  start: 2026-06-05 16:00:00 
+  end:   2026-06-05 17:00:00 
+  organizer: "Netz39 Team <kontakt@netz39.de>" 
+  location: "Netz39 e.V., Leibnizstraße 32, Magdeburg"
+discord_event_id: 1362334740103041045
+rrule: "FREQ=YEARLY;INTERVAL=1;DTSTART=20260605T140000"
+---
+Unser Hackspace hat Geburtstag – 13 Jahre gemeinsames Tüfteln, Löten, Diskutieren, Coden, Bauen, Basteln, Schrauben, Staunen und natürlich ganz viel Mate trinken.
+Das schreit nach einer ordentlichen Geburtstagsfeier – und du bist herzlich eingeladen! 
+
+Was dich erwartet
+🍰 Kuchen, Snacks und Getränke
+🔧 Projekte zum Ansehen (oder Mitmachen)
+🎶 Musik und nette Menschen
+💬 Gespräche über Technik, Ideen und alles dazwischen
+Ob Mitglied, Freund*in des Hauses oder einfach nur neugierig – komm vorbei, feier mit uns und lerne den Space (neu) kennen. Wir freuen uns auf dich!
+
+edited
+<!-- event imported from discord manual changes may be overwritten -->
