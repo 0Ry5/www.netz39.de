@@ -1,8 +1,8 @@
 ---
 layout: event
-title: "Canceled: FaRaFIN Campusrallye"
+title: "FaRaFIN Campusrallye"
 author: "Netz39 e.V."
-discord_event_id: 1424007098433409167
+discord_event_id: 1424007675217449092
 tags: ["non-recurring"]
 event:
   start: 2025-10-06 14:00:00 
