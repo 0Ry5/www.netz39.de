@@ -10,5 +10,5 @@ event:
   location: "CCH Hamburg"
   discord_event_id: 1424032556969496719
 ---
-Anreise am besten schon am Tag 0 (26.12) zum Aufbau
+Anreise am besten schon am Tag 0 (26.12) zum Aufbau crazy new edit
 <!-- event imported from discord manual changes may be overwritten -->
