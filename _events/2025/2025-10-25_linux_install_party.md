@@ -2,7 +2,7 @@
 layout: event
 title: "Linux Install Party"
 author: "Netz39 e.V."
-discord_event_id: 1424007114157985897
+discord_event_id: 1424007737133764681
 tags: ["internal", "non-recurring"]
 event:
   start: 2025-10-25 16:00:00 
