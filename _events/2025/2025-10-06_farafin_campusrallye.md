@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "FaRaFIN Campusrallye"
+title: "Canceled: FaRaFIN Campusrallye"
 author: "Netz39 e.V."
 discord_event_id: 1424007098433409167
 tags: ["non-recurring"]
