@@ -12,3 +12,4 @@ event:
   discord_event_id: 1424032122347454516
 ---
 Wir haben einen Stand auf der FaRaFIN Campusrallye angeboten bekommen. Gestaltung noch offen.
+<!-- event imported from discord manual changes may be overwritten -->
