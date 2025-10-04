@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "FaRaFIN Campusrallye"
+title: "Canceled: FaRaFIN Campusrallye"
 author: "Netz39 e.V."
 tags: ["non-recurring"]
 event:
