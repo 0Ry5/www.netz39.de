@@ -2,7 +2,7 @@
 layout: event
 title: "Forum MINT auf der vocatium Magdeburg focus 2025"
 author: "Netz39 e.V."
-discord_event_id: 1424004538783764510
+discord_event_id: 1424007762051858553
 tags: ["non-recurring"]
 event:
   start: 2025-11-04 08:30:00 
