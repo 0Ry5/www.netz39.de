@@ -2,7 +2,7 @@
 layout: event
 title: "Netz39-Stammtisch"
 author: "Netz39 e.V."
-discord_event_id: 1423992236655509537
+discord_event_id: 1423993658293616703
 tags: ["non-recurring"]
 event:
   start: 2025-12-17 19:30:00 
