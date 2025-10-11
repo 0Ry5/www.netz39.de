@@ -9,6 +9,6 @@ event:
   end: '2025-12-12 17:45:00'
   organizer: Netz39 Team <kontakt@netz39.de>
   location: Leibnizstr 32, 39104
-  discord_event_id: 1426494740425216122
+  discord_event_id: 1426496294943195200
 ---
 test from github
