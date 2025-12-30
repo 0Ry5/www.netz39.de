@@ -2,6 +2,8 @@
 layout: event
 title: 39C3 - Chaos Communication Congress
 author: Netz39 e.V.
+image: https://raw.githubusercontent.com/0Ry5/cdn.netz39.de/refs/heads/main/None
+feature-img: https://raw.githubusercontent.com/0Ry5/cdn.netz39.de/refs/heads/main/None
 tags:
 - non-recurring
 event:
@@ -9,6 +11,7 @@ event:
   end: '2025-12-30 23:45:00'
   organizer: Netz39 Team <kontakt@netz39.de>
   location: CCH Hamburg
-  discord_event_id: 1328749312980553879
+  discord_event_id: 1424032556969496719
 ---
-Anreise am besten schon am Tag 0 (26.12) zum Aufbau
+Anreise am besten schon am Tag 0 (26.12) zum Aufbau crazy new edit
+<!-- event imported from discord manual changes may be overwritten -->
