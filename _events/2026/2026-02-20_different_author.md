@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Different Author
+title: 'Canceled: Different Author'
 author: different
 image: https://raw.githubusercontent.com/0Ry5/cdn.netz39.de/refs/heads/main/None
 feature-img: https://raw.githubusercontent.com/0Ry5/cdn.netz39.de/refs/heads/main/None
