@@ -5,8 +5,8 @@ image: https://cdn.netz39.de/img/post-img/2019/microbit_mit_zip_halo-e1554138460
 feature-img: "https://cdn.netz39.de/img/post-img/2019/microbit_mit_zip_halo-e1554138460970.jpeg"
 tags: [internal,recurring]
 event:
-  start: 2025-05-06 19:30:00
-  end: 2025-05-06 23:59:59
+  start: 2026-05-06 19:30:00
+  end: 2026-05-06 23:59:59
   organizer: Netz39 Team <kontakt@netz39.de>
   location: Netz39 e.V.
   rrule: FREQ=WEEKLY;INTERVAL=1;DTSTART=20260506T193000
