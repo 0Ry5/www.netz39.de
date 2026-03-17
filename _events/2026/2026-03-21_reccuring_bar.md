@@ -5,7 +5,7 @@ event:
   end: '2026-03-21 22:00:00'
   location: foo
   organizer: Netz39 e.V. <kontakt@netz39.de>
-  rrule: FREQ=WEEKLY;INTERVAL=2;BYDAY=SA;DTSTART=2026-03-21 21:00:00+01:00
+  rrule: FREQ=WEEKLY;INTERVAL=2;BYDAY=SA;DTSTART=20260321T210000 
   start: '2026-03-21 21:00:00'
 layout: event
 tags:
