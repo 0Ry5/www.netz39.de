@@ -1,17 +1,18 @@
 ---
-layout: event
-title: Handgemachte Microcontroller
 author: Netz39 e.V.
+event:
+  discord_event_id: 1483382222622031974
+  end: '2026-10-18 18:00:00'
+  location: Netz39 e.V., Leibnizstr. 32, 39104 Magdeburg
+  organizer: Netz39 e.V. <kontakt@netz39.de>
+  start: '2026-10-17 10:00:00'
+layout: event
 tags:
 - internal
 - non-recurring
-event:
-  start: '2026-10-17 10:00:00'
-  end: '2026-10-18 18:00:00'
-  organizer: Netz39 Team <kontakt@netz39.de>
-  location: Netz39 e.V., Leibnizstr. 32, 39104 Magdeburg
-  discord_event_id: 1456388912673980456
+title: Handgemachte Microcontroller
 ---
+
 Ein Mikrocontroller zum Anfassen: In diesem Workshop entsteht ein vollständig
 selbst gelöteter Arduino-kompatibler Mikrocontroller. Die Teilnehmenden
 lernen den sicheren Umgang mit dem Lötkolben, verstehen den Aufbau des
